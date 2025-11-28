@@ -20,5 +20,3 @@ Hello, World!
 **MIT License**  (see the `LICENSE` file)
 
 ---
-
-(yeah that's a damn reference)
