@@ -13,20 +13,20 @@
     "aidendev0",
     "mbot.js"
   ],
-  "homepage": "https://github.com/aidendev0/mbot-js",
+  "homepage": "https://github.com/adenast/mbot-js",
   "bugs": {
-    "url": "https://github.com/aidendev0/mbot-js/issues"
+    "url": "https://github.com/adenast/mbot-js/issues"
   },
   "license": "MIT",
   "author": {
-    "name": "Aiden_",
+    "name": "Aiden Asset",
     "email": "aiden0@zohomail.com",
-    "url": "https://github.com/aidendev0"
+    "url": "https://github.com/adenast"
   },
   "main": "src/MBOT.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/aidendev0/mbot.js/"
+    "url": "https://github.com/adenast/mbot.js/"
   },
   "dependencies": {
     "mbot-js": "^1.0.0"
