@@ -11,12 +11,38 @@ Hello, World!
 
 ## Installation and Usage
 
-**Check** [wiki](https://github.com/lobotomydev/mbot-js/wiki)
+## Installation
+
+> **⚠️ Important:** The project requires **NPM** to install.
+
+**To install** just run this command in your terminal:
+```
+npm install mbot-js
+```
+
+## Usage
+
+> **⚠️ Important:** The code written with this library requires **node** to run code.
+
+```js
+// Including library
+require('mbot-js');
+
+// Now we can use it:
+HelloWorld(print);
+```
+
+**After running `usage.js` with node we achieve our goal:**
+
+```bash
+$ node usage.js
+Hello, World!
+```
 
 ---
 
 ## 📄 License
 
-**MIT License**  (see the `LICENSE` file)
+This projects is licensed under **MIT License** (check the `LICENSE` file for details).
 
 ---
